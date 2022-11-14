@@ -1,0 +1,35 @@
+.main{
+
+width: 100%;
+background-color: aqua;
+
+}
+.head{
+width: 100%;
+height: 100px;
+background-color: gold;
+display: flex;justify-content: center;
+
+}
+
+#cards{
+display: flex;
+justify-content: space-around;
+flex-wrap: wrap;
+}
+
+.card{
+width: 20%;
+border: 2px solid black;
+text-align: center;
+}
+
+.id{
+    background-color: orange;
+
+}
+
+.title{
+background-color: wheat;
+
+}
