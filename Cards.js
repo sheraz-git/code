@@ -13,6 +13,7 @@
              // }
              // let space=document.getElementById("a").innerHTML= val;
 let data1 = "";
+let data2 = "sdsdsds";             
 d.map((value) => {
 
 data1+= `<div  class="card"> 
